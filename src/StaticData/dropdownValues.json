@@ -1,0 +1,24 @@
+{
+  "dropdownItems": [
+    {
+      "title": "All Program",
+      "value": "all_program"
+    },
+    {
+      "title": "All Revenues",
+      "value": "all_revenues"
+    },
+    {
+      "title": "All Subscribers",
+      "value": "all_subscribers"
+    },
+    {
+      "title": "All Trainers",
+      "value": "all_trainers"
+    },
+    {
+      "title": "All Transactions",
+      "value": "all_transactions"
+    }
+  ]
+}
